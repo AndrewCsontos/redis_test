@@ -1,5 +1,5 @@
 
-//@ts-ignore - http-error doesn't have types
+//@ts-ignore - redis-promisify doesn't have types
 import redis from 'redis-promisify';
 
 console.log("connecting")
